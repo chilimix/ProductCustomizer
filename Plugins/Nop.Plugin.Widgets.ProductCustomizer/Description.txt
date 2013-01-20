@@ -1,0 +1,8 @@
+﻿Group: Widgets
+FriendlyName: Product Customizer
+SystemName: Widgets.ProductCustomizer
+Version: 1.00
+SupportedVersions: 2.80
+Author: Chilimix
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.ProductCustomizer.dll
